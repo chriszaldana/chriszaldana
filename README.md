@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Christian Zaldaña 👋👋</h1>
-<h3 align="center">I´m a Full Stack Junior student at Kodigo with basic knowledge about HTML, CSS and Bostrap.</h3>
+<h3 align="center">I´m a Full Stack Junior student at Kodigo with basic knowledge about HTML, CSS and Boostrap.</h3>
 
 - 🌱 I’m currently learning **GIT and GitHub**
 
