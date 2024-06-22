@@ -1,6 +1,11 @@
 <h1 align="center">Hi I'm Christian Zaldaña 👋👋</h1>
 <h3 align="center">I´m a Full Stack Junior student at Kodigo with basic knowledge about HTML, CSS and Boostrap.</h3>
 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 - 🌱 I’m currently learning **GIT and GitHub**
 
 - 📫 How to reach me **chris.zaldana92@gmail.com**
